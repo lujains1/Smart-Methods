@@ -14,7 +14,8 @@ I worked with my team to lunch lidar on windows by following these steps:
 <br>
 4. Make sure the Lidar is connected to your device, by connecting the signal port to the Lidar and another port to your device
 5. After connecting the lidar to the device, open the app and run it : <br>
-![Screenshot 2024-08-08 185838](https://github.com/user-attachments/assets/58cf5177-baf0-439a-8d62-3614ebbfb714)
+![app](https://github.com/user-attachments/assets/c81297f0-660a-4bcf-b384-d887179e4f44)
+<br>https://github.com/user-attachments/assets/133154d3-2340-4e2e-acd0-026d0b7ab5b4
 
 
 
