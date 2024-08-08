@@ -12,10 +12,19 @@ I worked with my team to lunch lidar on windows by following these steps:
 3. Open the Delta-A2 folder <br>
 ![Screenshot 2024-08-08 184142](https://github.com/user-attachments/assets/760a5174-9d6b-41ed-b7f7-515a31688d68)
 <br>
-4. Make sure the Lidar is connected to your device, by connecting the signal port to the Lidar and another port to your device
-5. After connecting the lidar to the device, open the app and run it : <br>
-![app](https://github.com/user-attachments/assets/c81297f0-660a-4bcf-b384-d887179e4f44)
-<br>https://github.com/user-attachments/assets/133154d3-2340-4e2e-acd0-026d0b7ab5b4
+4. Make sure the Lidar is connected to your device, by connecting the signal port to the Lidar and another port to your device<br>
+5. After connecting the lidar to the device, open the app and run it <br>
+
+![app](https://github.com/user-attachments/assets/ca807bad-e88a-4c82-b111-098a9cb59e57)
+
+
+https://github.com/user-attachments/assets/583def99-03ab-4e53-b0b2-a9e3ffce6413
+
+<br><br>
+## Reference
+1.https://rb.gy/7ozksb 
+
+
 
 
 
