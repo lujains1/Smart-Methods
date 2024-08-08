@@ -33,7 +33,7 @@ To see the output ,the terminal will print URL:<br>
 <br>
 copy the link and paste it to your browser 
 
-### Screenshot To The Web App
+## Screenshot To The Web App
 Here is the output for the web app
 <br>
 
