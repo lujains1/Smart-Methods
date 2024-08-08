@@ -12,7 +12,7 @@ function to detect faces in each frame. The Flask app has two routes: the index 
 2. Open the visual studio code
 3. Click on file and then click on the open folder
 4. Open the folder you created
-5. Create faceDetection.py file and copy the following code to your file [faceDetection.py]
+5. Create faceDetection.py file and copy the following code to your file [`faceDetection.py`](https://github.com/lujains1/SmartMethods/blob/main/AI%20and%20Robotics/Face_Detection/faceDetection.py)
 
 ###  Dependencies:
 Before you run the web app you should install the Flask and OpenCV packages : 
