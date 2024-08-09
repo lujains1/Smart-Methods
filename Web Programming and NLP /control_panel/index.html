@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Robot Controller</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <div class="grid-container">
+        <button class="forward" onclick="sendCommand('forward')">Forward</button>
+        <button class="backward" onclick="sendCommand('backward')">Backward</button>
+        <button class="left" onclick="sendCommand('left')">Left</button>
+        <button class="right" onclick="sendCommand('right')">Right</button>
+        <button class="stop" onclick="sendCommand('stop')">Stop</button>
+    </div>
+
+    <script>
+        function sendCommand(command) {
+            fetch('http://localhost/control_panel/moves.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ direction: command })
+            }).then(response => {
+                if (response.ok) {
+                    console.log('Command sent:', command);
+                } else {
+                    console.error('Error occurred while sending');
+                }
+            }).catch(error => {
+                console.error('Error:', error);
+            });
+        }
+        
+    </script>
+</body>
+</html>
