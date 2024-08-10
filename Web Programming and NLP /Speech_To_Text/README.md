@@ -6,13 +6,13 @@ I created a web page that allows users to record their voice and say any words. 
 The project contains at HTML, CSS, JavaScript and PHP files :
 
 ### HTML 
-The index.html file provides the structure and content for Speech to Text webpage. It has a start button to start speech recognition and paragraph result to display the text.
+The [index.html](https://github.com/lujains1/Smart-Methods/blob/main/Web%20Programming%20and%20NLP%20/Speech_To_Text/index.html) file provides the structure and content for Speech to Text webpage. It has a start button to start speech recognition and paragraph result to display the text.
 
 ### CSS 
-The style.css file to style the web page 
+The [style.css](https://github.com/lujains1/Smart-Methods/blob/main/Web%20Programming%20and%20NLP%20/Speech_To_Text/style.css) file to style the web page 
 
 ### JavaScript
-The script.js file:
+The [script.js](https://github.com/lujains1/Smart-Methods/blob/main/Web%20Programming%20and%20NLP%20/Speech_To_Text/script.js) file:
 - Enables speech recognition on a web page.
 - Clicking start-btn initializes a SpeechRecognition object.
 - Updates UI during recognition events (onstart, onresult, onerror, onend).
@@ -21,7 +21,7 @@ The script.js file:
 - Browser support required for Speech Recognition API.
 
 ### PHP 
-The text.php file :
+The [text.php](https://github.com/lujains1/Smart-Methods/blob/main/Web%20Programming%20and%20NLP%20/Speech_To_Text/text.php) file :
 - Enables error reporting for debugging purposes.
 - Verifies if the request method is POST.
 - Establishes database connection 
@@ -31,6 +31,8 @@ The text.php file :
 
 ## Demo
 
-
 https://github.com/user-attachments/assets/01b3a267-fc9b-45e1-ac63-f52821037f2d
 
+## Reference
+Background animation:<br>
+https://www.sliderrevolution.com/resources/css-animated-background/
